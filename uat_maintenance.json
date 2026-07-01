@@ -1,5 +1,5 @@
 {
-  "maintenance_enabled": false,
+  "maintenance_enabled": true,
   "maintenance_start": "2026-07-01T04:30:00Z",
   "maintenance_end": "2026-07-01T11:30:00Z",
   "message": "App is under maintenance"
